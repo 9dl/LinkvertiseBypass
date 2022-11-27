@@ -1,0 +1,12 @@
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\bin\Release\LinkvertiseBypasser.exe.config
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\bin\Release\LinkvertiseBypasser.exe
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\bin\Release\LinkvertiseBypasser.pdb
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\bin\Release\Leaf.xNet.xml
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\obj\Release\LinkvertiseBypasser.csproj.AssemblyReference.cache
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\obj\Release\LinkvertiseBypasser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\obj\Release\LinkvertiseBypasser.csproj.CoreCompileInputs.cache
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\obj\Release\LinkvertiseBypasser.csproj.Fody.CopyLocal.cache
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\obj\Release\LinkvertiseBypasser.csproj.CopyComplete
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\obj\Release\LinkvertiseBypasser.exe
+C:\Users\Vestige\Desktop\Coding\LinkvertiseBypasser\LinkvertiseBypasser\obj\Release\LinkvertiseBypasser.pdb
